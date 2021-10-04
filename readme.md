@@ -1,4 +1,5 @@
-
+# Merge html and webgl  🔥
+# Merge dimensions of browser and webgl 🔥
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
@@ -15,5 +16,4 @@ npm run dev
 npm run build
 ```
 
-# merge html and webgl basic 
-# merge dimensions of browser and webgl
+
